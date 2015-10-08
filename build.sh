@@ -63,7 +63,7 @@ rm -R $TEMP/*980
 
 VARIANT=d800
 VERSION=JB
-BL=
+BL=10D
 echo -----------------------------
 echo $VARIANT / $VERSION
 echo -----------------------------
@@ -92,7 +92,7 @@ cp "simpleBootstacks-$VARIANT-nevax-$VERSION-$BL-signed.zip.md5" $UPLOAD/$VARIAN
 
 VARIANT=d800
 VERSION=KK
-BL=
+BL=20Y
 echo -----------------------------
 echo $VARIANT / $VERSION
 echo -----------------------------
@@ -150,7 +150,7 @@ cp "simpleBootstacks-$VARIANT-nevax-$VERSION-$BL-signed.zip.md5" $UPLOAD/$VARIAN
 
 VARIANT=d800
 VERSION=LP-Loki
-BL=
+BL=10D-
 echo -----------------------------
 echo $VARIANT / $VERSION
 echo -----------------------------
@@ -179,7 +179,7 @@ cp "simpleBootstacks-$VARIANT-nevax-$VERSION-$BL-signed.zip.md5" $UPLOAD/$VARIAN
 
 VARIANT=d800
 VERSION=LP-Bump
-BL=
+BL=20Y-
 echo -----------------------------
 echo $VARIANT / $VERSION
 echo -----------------------------
